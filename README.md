@@ -19,4 +19,13 @@ Using the 4 clusters, the K-means model was then fit to the data and predictions
 ![predictions](https://github.com/aarce21/Cryptocurrencies/blob/main/images/predictions.PNG)
 
 The prediction data was then added to the clustered dataframe table to show what class each of the Crypto categories they were predicted to fall into. The Class column was added to the end of the DataFrame
+
 ![table_predictions](https://github.com/aarce21/Cryptocurrencies/blob/main/images/table_predictions.PNG)
+
+To visualize the 4 clusters predicted with the Cryptocurrency data, a 3D scatter plot was created
+
+![3D_scatter](https://github.com/aarce21/Cryptocurrencies/blob/main/images/3D_scatter.PNG)
+
+Lastly, a scatter plot was created to visualize the coins in each class based on two parameters, TotalCoinsMined and TotalCoinSupply
+
+![scatter_plot](https://github.com/aarce21/Cryptocurrencies/blob/main/images/scatter_plot.PNG)
